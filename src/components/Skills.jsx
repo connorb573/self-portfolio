@@ -79,6 +79,8 @@ export default class Skills extends Component{
                             <p>I am also familiar with MATLAB, OpenGL, Processing 3 and Python </p>
                             <p>I am very confident with Agile Practices, and have significant experience
                             using Git, Continuous Integration, TDD and planning using user stories.</p>
+                            <p>I can also speak conversational German to level A1 of the Common European
+                                Framework for Languages</p>
                         </div>
                     </div>
                 </div>
