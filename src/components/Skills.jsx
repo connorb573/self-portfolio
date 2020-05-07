@@ -78,9 +78,7 @@ export default class Skills extends Component{
                         <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                             <p>I am also familiar with MATLAB, OpenGL, Processing 3 and Python </p>
                             <p>I am very confident with Agile Practices, and have significant experience
-                            using Git, Continuous Integration, TDD and planning using user stories.</p>
-                            <p>I can also speak conversational German to level A1 of the Common European
-                                Framework for Languages</p>
+                                using Git, Continuous Integration, TDD and planning using user stories.</p>
                         </div>
                     </div>
                 </div>
