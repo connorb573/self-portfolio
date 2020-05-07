@@ -49,7 +49,7 @@ export default class About extends Component{
                                         <div className="about-desc">
                                             <h2 className="colorlib-heading">Hobbies</h2>
                                             <p> I'm a self confessed lover of learning, constantly teaching myself new skills and exploring
-                                            new topics to expand my knowledge. I'm also a multi-instrumentalist, rock climber, home cook, photographer
+                                            new topics to expand my knowledge. I'm also a music lover and multi-instrumentalist, rock climber, home cook, photographer
                                             and an avid reader: </p>
                                         </div>
                                     </div>
