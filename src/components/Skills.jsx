@@ -87,7 +87,7 @@ export default class Skills extends Component{
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                         <h2 className="colorlib-heading animate-box">Other Skills</h2>
                         <p>I can speak German to the A1 level of the European Common Framework for Languages</p>
-                        <p>I have a strong understand of many Mathematical concepts, including Matrices and Linear
+                        <p>I have a strong understanding of many Mathematical concepts, including Matrices and Linear
                         Algebra, Mathematical Analysis, and Calculus</p>
                     </div>
                 </div>
